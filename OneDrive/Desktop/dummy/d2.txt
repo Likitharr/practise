@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 d2.txt is modified in first branch
-=======
 d2.txt is modified in second branch
->>>>>>> second
+d2.txt is modified in third branch
+

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 d3.txt is modified in first branch
 =======
 d3.txt is modified in second branch
 >>>>>>> second
+=======
+d3.txt is modified in third branch
+>>>>>>> master
