@@ -1,5 +1,0 @@
-
-d2.txt is modified in first branch
-d2.txt is modified in second branch
-d2.txt is modified in third branch
-
